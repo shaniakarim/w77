@@ -1,0 +1,17 @@
+body {
+    background-color: #f7e8a4;
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4081;
+    margin-top: 20px;
+}
+
+#gameContainer {
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    background-color: #ffffff;
+}
